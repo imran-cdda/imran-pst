@@ -46,4 +46,4 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS / BOOTSTRAP
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdimranh)  
 
-![Profile views](https://gpvc.arturio.dev/mdimranh)  
+![Profile views](https://gpvc.arturio.dev/imran-pst)  
